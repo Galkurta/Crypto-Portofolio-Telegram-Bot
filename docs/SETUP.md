@@ -12,8 +12,8 @@
 1. **Clone Repository**
 
    ```
-   git clone [YOUR_REPOSITORY_URL]
-   cd [PROJECT_DIRECTORY_NAME]
+   git clone https://github.com/Galkurta/Crypto-Portofolio-Telegram-Bot
+   cd Crypto-Portofolio-Telegram-Bot
    ```
 
 2. **Create and Activate Virtual Environment**
